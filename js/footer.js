@@ -10,7 +10,7 @@ const footerHtml = `
             <div class="col-lg-4 col-md-7 col-xs-12 tooplate-mt30">
                 <h6 class="text-white mb-lg-4 mb-3">Location</h6>
                 <p>148 Victoria Street Seddon, 3011 Victoria</p>
-                <a href="https://goo.gl/maps/wZVGLA7q64uC1s886" class="custom-btn btn btn-dark mt-2">Directions</a>
+                <a href="https://maps.app.goo.gl/C2j7jJL3JdpZp92N7" class="custom-btn btn btn-dark mt-2">Directions</a>
             </div>
 
             <div class="col-lg-4 col-md-5 col-xs-12 tooplate-mt30">
